@@ -1,0 +1,5 @@
+package com.nath.crud_mssql.entity;
+
+public class Person {
+
+}

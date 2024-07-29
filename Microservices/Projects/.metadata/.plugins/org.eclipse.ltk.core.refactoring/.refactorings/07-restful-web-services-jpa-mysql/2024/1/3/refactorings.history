@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;birthDate&apos; in &apos;com.nath.webservice.user.User&apos; to &apos;birthdate&apos;&#x0D;&#x0A;- Original project: &apos;07-restful-web-services-jpa-mysql&apos;&#x0D;&#x0A;- Original element: &apos;com.nath.webservice.user.User.birthDate&apos;&#x0D;&#x0A;- Renamed element: &apos;com.nath.webservice.user.User.birthdate&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;birthDate&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.nath.webservice.user{User.java[User^birthDate" name="birthdate" references="true" setter="false" stamp="1705510465713" textual="false" version="1.0"/>
+</session>

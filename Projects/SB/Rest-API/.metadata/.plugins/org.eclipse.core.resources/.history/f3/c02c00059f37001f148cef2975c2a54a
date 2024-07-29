@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Student Data</title>
+</head>
+<body>
+	<div align="center">
+		<h1>Spring Boot Thymeleaf Form Validation Demo</h1>
+		<a href="register">Click here to register</a>
+		<br>
+		<a href="listStu">Click here to get list of all students</a>
+	</div>
+</body>
+</html>

@@ -1,0 +1,6 @@
+package com.nath.my_office_page.model;
+
+@Entity
+public class Role {
+
+}

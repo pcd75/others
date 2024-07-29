@@ -1,0 +1,43 @@
+package com.nath.my_office_page.security;
+@Configuration
+@EnableWebSecurity
+public class AdminSecurity {
+	
+
+	    @Bean
+	    public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {
+	        http
+	            .authorizeHttpRequests(authorize -> authorize
+	                .requestMatchers("/").permitAll()
+	                .anyRequest().authenticated()
+	            )
+	            .formLogin(form -> form
+	                .loginPage("/login")
+	                .permitAll()
+	            )
+	            .logout(logout -> logout
+	                .permitAll()
+	            );
+
+	        return http.build();
+	    }
+
+	    @Bean
+	    public UserDetailsService userDetailsService() {
+	        UserDetails user = User.withDefaultPasswordEncoder()
+	            .username("user")
+	            .password("password")
+	            .roles("USER")
+	            .build();
+
+	        UserDetails admin = User.withDefaultPasswordEncoder()
+	            .username("admin")
+	            .password("admin")
+	            .roles("ADMIN")
+	            .build();
+
+	        return new InMemoryUserDetailsManager(user, admin);
+	    }
+	}
+
+}

@@ -1,0 +1,2 @@
+07:19 20:07:04.461 [RMI TCP Connection(5)-127.0.0.1] [INFO] [o.a.coyote.http11.Http11NioProtocol]
+				Stopping ProtocolHandler ["http-nio-8080"]

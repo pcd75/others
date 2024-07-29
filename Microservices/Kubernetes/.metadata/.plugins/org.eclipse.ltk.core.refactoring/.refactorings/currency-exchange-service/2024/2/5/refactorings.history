@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Application.java&apos; to &apos;time-tracker-core/src/main/java/training.taylor.timetracker.core&apos;&#x0D;&#x0A;- Original project: &apos;currency-exchange-service&apos;&#x0D;&#x0A;- Destination element: &apos;time-tracker-core/src/main/java/training.taylor.timetracker.core&apos;&#x0D;&#x0A;- Original element: &apos;com.nath.microservice.currencyexchangeservice.Application.java&apos;" description="Copy compilation unit" destination="=time-tracker-core/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;training.taylor.timetracker.core" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.nath.microservice.currencyexchangeservice{Application.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1706814237483" units="1" version="1.0"/>
+</session>

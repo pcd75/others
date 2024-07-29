@@ -1,0 +1,5 @@
+DEBUG 2024-07-17 14:46:09,430 com.adi.demo.log4j.Application main 
+INFO 2024-07-17 14:46:09,432 com.adi.demo.log4j.Application main 
+WARN 2024-07-17 14:46:09,432 com.adi.demo.log4j.Application main 
+ERROR 2024-07-17 14:46:09,432 com.adi.demo.log4j.Application main 
+FATAL 2024-07-17 14:46:09,432 com.adi.demo.log4j.Application main 

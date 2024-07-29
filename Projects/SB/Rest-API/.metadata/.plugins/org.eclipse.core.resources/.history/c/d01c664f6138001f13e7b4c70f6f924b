@@ -1,0 +1,5 @@
+spring.application.name=06-my-office-page
+
+server.port = 7575
+
+

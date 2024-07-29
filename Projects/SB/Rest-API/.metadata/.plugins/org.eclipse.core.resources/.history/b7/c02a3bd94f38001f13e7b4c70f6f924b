@@ -1,0 +1,5 @@
+package com.nath.my_office_page.security;
+
+public class WebSecurityComfig {
+
+}

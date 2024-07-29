@@ -1,0 +1,26 @@
+07:19 20:06:21.215 [restartedMain] [INFO] [com.adi.demo.log4j.Application]
+				Starting Application using Java 17.0.7 with PID 22060 (D:\ADI\STS\Practice\11-Realtime-logger\target\classes started by Adinath75 in D:\ADI\STS\Practice\11-Realtime-logger)
+07:19 20:06:21.219 [restartedMain] [INFO] [com.adi.demo.log4j.Application]
+				No active profile set, falling back to 1 default profile: "default"
+07:19 20:06:21.394 [restartedMain] [INFO] [o.a.coyote.http11.Http11NioProtocol]
+				Initializing ProtocolHandler ["http-nio-8080"]
+07:19 20:06:21.395 [restartedMain] [INFO] [o.a.catalina.core.StandardService]
+				Starting service [Tomcat]
+07:19 20:06:21.395 [restartedMain] [INFO] [o.a.catalina.core.StandardEngine]
+				Starting Servlet engine: [Apache Tomcat/10.1.25]
+07:19 20:06:21.411 [restartedMain] [INFO] [o.a.c.c.C.[Tomcat].[localhost].[/]]
+				Initializing Spring embedded WebApplicationContext
+07:19 20:06:21.499 [restartedMain] [INFO] [o.a.coyote.http11.Http11NioProtocol]
+				Starting ProtocolHandler ["http-nio-8080"]
+07:19 20:06:21.507 [restartedMain] [INFO] [com.adi.demo.log4j.Application]
+				Started Application in 0.336 seconds (process running for 72.599)
+07:19 20:06:31.266 [http-nio-8080-exec-1] [INFO] [o.a.c.c.C.[Tomcat].[localhost].[/]]
+				Initializing Spring DispatcherServlet 'dispatcherServlet'
+07:19 20:06:31.266 [http-nio-8080-exec-1] [INFO] [o.s.web.servlet.DispatcherServlet]
+				Initializing Servlet 'dispatcherServlet'
+07:19 20:06:31.267 [http-nio-8080-exec-1] [INFO] [o.s.web.servlet.DispatcherServlet]
+				Completed initialization in 1 ms
+07:19 20:06:31.269 [http-nio-8080-exec-1] [INFO] [c.a.d.l.controller.HomeController]
+				this is entering point Start Point
+07:19 20:06:31.270 [http-nio-8080-exec-1] [INFO] [c.a.d.l.controller.HomeController]
+				this is exit point End Point

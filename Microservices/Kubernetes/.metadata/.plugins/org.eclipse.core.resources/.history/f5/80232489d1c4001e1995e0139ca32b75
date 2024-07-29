@@ -1,0 +1,5 @@
+package com.springwork.bookwork.controller;
+
+public class HomeController {
+
+}

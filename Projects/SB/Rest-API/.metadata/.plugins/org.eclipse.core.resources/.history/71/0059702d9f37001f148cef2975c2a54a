@@ -1,0 +1,5 @@
+package com.nath.student_mange.controller;
+
+public class HomeController {
+
+}

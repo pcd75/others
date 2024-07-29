@@ -1,0 +1,46 @@
+package com.nath.my_office_page.security;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.security.config.annotation.web.builders.HttpSecurity;
+import org.springframework.security.core.userdetails.UserDetailsService;
+import org.springframework.security.crypto.password.NoOpPasswordEncoder;
+import org.springframework.security.crypto.password.PasswordEncoder;
+import org.springframework.security.provisioning.InMemoryUserDetailsManager;
+import org.springframework.security.web.SecurityFilterChain;
+
+import com.nath.my_office_page.model.User;
+
+public class AdminSecurity {
+	@Bean
+    public UserDetailsService userDetailsService() {
+        InMemoryUserDetailsManager manager = new InMemoryUserDetailsManager();
+        manager.createUser(User.withUsername("Zack")
+                .password("aayush")
+                .roles("admin_role")
+                .build());
+        manager.createUser(User.withUsername("Aayush")
+                .password("Saini")
+                .roles("student_role")
+                .build());
+        return manager;
+    }
+
+    @Bean
+    public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {
+        http
+            .httpBasic()
+            .and()
+            .authorizeRequests()
+                .antMatchers("/delete").hasRole("admin_role")
+                .anyRequest().authenticated()
+            .and()
+            .formLogin();
+        return http.build();
+    }
+
+    @Bean
+    public PasswordEncoder passwordEncoder() {
+        return NoOpPasswordEncoder.getInstance();
+    }
+
+}

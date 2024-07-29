@@ -1,0 +1,14 @@
+spring.application.name=08-crud-mssql
+
+server.port=7575
+
+spring.datasource.url=jdbc:sqlserver://localhost:1433;databaseName=mydb
+spring.datasource.username=nath
+spring.datasource.password=Nath@44
+spring.datasource.driver-class-name=com.microsoft.sqlserver.jdbc.SQLServerDriver
+
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.SQLServerDialect
+
+spring.datasource.continue-on-error: true

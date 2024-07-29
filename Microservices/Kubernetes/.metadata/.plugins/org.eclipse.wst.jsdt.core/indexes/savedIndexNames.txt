@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\ADI\Microservices\Kubernetes\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3157439733.index
+3800069572.index
+3304022476.index
+3013989148.index
+736922582.index
+276599091.index

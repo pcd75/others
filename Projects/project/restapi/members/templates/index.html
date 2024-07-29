@@ -1,0 +1,29 @@
+<h1>Records</h1>
+
+<table border="1" style="width: 50%;">
+	<thead>
+		<tr>
+			<th>ID</th>
+			<th>Name</th>
+			<th>Quantity</th>
+			<th>Genre</th>
+			<th>Action</th>
+		</tr>
+	</thead>
+		{% for x in mymembers %}
+		<tr>
+			<td>{{ x.id }}</td>
+			<td>{{ x.name }}</td>
+			<td>{{ x.quantity }}</td>
+			<td>{{ x.genre }}</td>
+			<td><a href="delete/{{ x.id }}">Delete</a><a href="update/{{x.id}}" style="padding-left: 10px;">Update</a></td>
+		</tr>
+		{% endfor %}
+</table>
+
+<p>
+<a href="add/">Add Record</a>
+</p>
+<p>
+	<a href="get/">Get record</a>
+</p>

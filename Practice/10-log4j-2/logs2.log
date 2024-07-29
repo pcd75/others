@@ -1,0 +1,749 @@
+2024-07-18 17:08:16,430 org.springframework.boot.StartupInfoLogger Starting Application using Java 17.0.7 with PID 24752 (D:\ADI\STS\Practice\10-log4j-2\target\classes started by Adinath75 in D:\ADI\STS\Practice\10-log4j-2) logStarting 50 INFO 
+2024-07-18 17:08:16,432 org.springframework.boot.SpringApplication No active profile set, falling back to 1 default profile: "default" logStartupProfileInfo 654 INFO 
+2024-07-18 17:08:16,597 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port 8080 (http) initialize 111 INFO 
+2024-07-18 17:08:16,598 org.apache.juli.logging.DirectJDKLog Starting service [Tomcat] log 173 INFO 
+2024-07-18 17:08:16,600 org.apache.juli.logging.DirectJDKLog Starting Servlet engine: [Apache Tomcat/10.1.25] log 173 INFO 
+2024-07-18 17:08:16,613 org.apache.juli.logging.DirectJDKLog Initializing Spring embedded WebApplicationContext log 173 INFO 
+2024-07-18 17:08:16,613 org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 178 ms prepareWebApplicationContext 296 INFO 
+2024-07-18 17:08:16,673 org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729 startServer 59 INFO 
+2024-07-18 17:08:16,682 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port 8080 (http) with context path '/' start 243 INFO 
+2024-07-18 17:08:16,689 org.springframework.boot.StartupInfoLogger Started Application in 0.294 seconds (process running for 362.471) logStarted 56 INFO 
+2024-07-18 17:08:16,689 org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener Condition evaluation unchanged onApplicationEvent 63 INFO 
+2024-07-18 17:09:18,355 org.apache.juli.logging.DirectJDKLog Initializing Spring DispatcherServlet 'dispatcherServlet' log 173 INFO 
+2024-07-18 17:09:18,358 org.springframework.web.servlet.FrameworkServlet Initializing Servlet 'dispatcherServlet' initServletBean 532 INFO 
+2024-07-18 17:09:18,360 org.springframework.web.servlet.FrameworkServlet Completed initialization in 2 ms initServletBean 554 INFO 
+2024-07-18 17:09:48,850 org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin Application shutdown requested. shutdown 159 INFO 
+2024-07-18 17:09:54,064 org.springframework.boot.StartupInfoLogger Starting Application using Java 17.0.7 with PID 10332 (D:\ADI\STS\Practice\10-log4j-2\target\classes started by Adinath75 in D:\ADI\STS\Practice\10-log4j-2) logStarting 50 INFO 
+2024-07-18 17:09:54,067 org.springframework.boot.SpringApplication No active profile set, falling back to 1 default profile: "default" logStartupProfileInfo 654 INFO 
+2024-07-18 17:09:54,110 org.springframework.boot.logging.DeferredLog Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable logTo 252 INFO 
+2024-07-18 17:09:54,111 org.springframework.boot.logging.DeferredLog For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' logTo 252 INFO 
+2024-07-18 17:09:54,969 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port 8080 (http) initialize 111 INFO 
+2024-07-18 17:09:54,982 org.apache.juli.logging.DirectJDKLog Starting service [Tomcat] log 173 INFO 
+2024-07-18 17:09:54,983 org.apache.juli.logging.DirectJDKLog Starting Servlet engine: [Apache Tomcat/10.1.25] log 173 INFO 
+2024-07-18 17:09:55,023 org.apache.juli.logging.DirectJDKLog Initializing Spring embedded WebApplicationContext log 173 INFO 
+2024-07-18 17:09:55,024 org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 912 ms prepareWebApplicationContext 296 INFO 
+2024-07-18 17:09:55,308 org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729 startServer 59 INFO 
+2024-07-18 17:09:55,340 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port 8080 (http) with context path '/' start 243 INFO 
+2024-07-18 17:09:55,349 org.springframework.boot.StartupInfoLogger Started Application in 1.684 seconds (process running for 2.385) logStarted 56 INFO 
+2024-07-18 17:10:06,413 org.apache.juli.logging.DirectJDKLog Initializing Spring DispatcherServlet 'dispatcherServlet' log 173 INFO 
+2024-07-18 17:10:06,414 org.springframework.web.servlet.FrameworkServlet Initializing Servlet 'dispatcherServlet' initServletBean 532 INFO 
+2024-07-18 17:10:06,415 org.springframework.web.servlet.FrameworkServlet Completed initialization in 1 ms initServletBean 554 INFO 
+2024-07-18 17:12:14,340 org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification) onApplicationEvent 211 INFO 
+2024-07-18 17:12:14,474 org.springframework.boot.StartupInfoLogger Starting Application using Java 17.0.7 with PID 10332 (D:\ADI\STS\Practice\10-log4j-2\target\classes started by Adinath75 in D:\ADI\STS\Practice\10-log4j-2) logStarting 50 INFO 
+2024-07-18 17:12:14,475 org.springframework.boot.SpringApplication No active profile set, falling back to 1 default profile: "default" logStartupProfileInfo 654 INFO 
+2024-07-18 17:12:14,634 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port 8080 (http) initialize 111 INFO 
+2024-07-18 17:12:14,635 org.apache.juli.logging.DirectJDKLog Starting service [Tomcat] log 173 INFO 
+2024-07-18 17:12:14,635 org.apache.juli.logging.DirectJDKLog Starting Servlet engine: [Apache Tomcat/10.1.25] log 173 INFO 
+2024-07-18 17:12:14,647 org.apache.juli.logging.DirectJDKLog Initializing Spring embedded WebApplicationContext log 173 INFO 
+2024-07-18 17:12:14,647 org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 169 ms prepareWebApplicationContext 296 INFO 
+2024-07-18 17:12:14,724 org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729 startServer 59 INFO 
+2024-07-18 17:12:14,733 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port 8080 (http) with context path '/' start 243 INFO 
+2024-07-18 17:12:14,738 org.springframework.boot.StartupInfoLogger Started Application in 0.29 seconds (process running for 141.774) logStarted 56 INFO 
+2024-07-18 17:12:14,740 org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener Condition evaluation unchanged onApplicationEvent 63 INFO 
+2024-07-18 17:12:22,246 org.apache.juli.logging.DirectJDKLog Initializing Spring DispatcherServlet 'dispatcherServlet' log 173 INFO 
+2024-07-18 17:12:22,246 org.springframework.web.servlet.FrameworkServlet Initializing Servlet 'dispatcherServlet' initServletBean 532 INFO 
+2024-07-18 17:12:22,247 org.springframework.web.servlet.FrameworkServlet Completed initialization in 1 ms initServletBean 554 INFO 
+2024-07-18 17:15:14,487 org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification) onApplicationEvent 211 INFO 
+2024-07-18 17:15:14,625 org.springframework.boot.StartupInfoLogger Starting Application using Java 17.0.7 with PID 10332 (D:\ADI\STS\Practice\10-log4j-2\target\classes started by Adinath75 in D:\ADI\STS\Practice\10-log4j-2) logStarting 50 INFO 
+2024-07-18 17:15:14,626 org.springframework.boot.SpringApplication No active profile set, falling back to 1 default profile: "default" logStartupProfileInfo 654 INFO 
+2024-07-18 17:15:14,776 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port 8080 (http) initialize 111 INFO 
+2024-07-18 17:15:14,777 org.apache.juli.logging.DirectJDKLog Starting service [Tomcat] log 173 INFO 
+2024-07-18 17:15:14,777 org.apache.juli.logging.DirectJDKLog Starting Servlet engine: [Apache Tomcat/10.1.25] log 173 INFO 
+2024-07-18 17:15:14,794 org.apache.juli.logging.DirectJDKLog Initializing Spring embedded WebApplicationContext log 173 INFO 
+2024-07-18 17:15:14,794 org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 166 ms prepareWebApplicationContext 296 INFO 
+2024-07-18 17:15:14,861 org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729 startServer 59 INFO 
+2024-07-18 17:15:14,872 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port 8080 (http) with context path '/' start 243 INFO 
+2024-07-18 17:15:14,881 org.springframework.boot.StartupInfoLogger Started Application in 0.278 seconds (process running for 321.917) logStarted 56 INFO 
+2024-07-18 17:15:14,882 org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener Condition evaluation unchanged onApplicationEvent 63 INFO 
+2024-07-18 17:15:19,174 org.apache.juli.logging.DirectJDKLog Initializing Spring DispatcherServlet 'dispatcherServlet' log 173 INFO 
+2024-07-18 17:15:19,174 org.springframework.web.servlet.FrameworkServlet Initializing Servlet 'dispatcherServlet' initServletBean 532 INFO 
+2024-07-18 17:15:19,175 org.springframework.web.servlet.FrameworkServlet Completed initialization in 1 ms initServletBean 554 INFO 
+2024-07-18 17:15:19,180 org.apache.juli.logging.DirectJDKLog Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Handler dispatch failed: java.lang.Error: Unresolved compilation problem: 
+	The method fatal(String) is undefined for the type Logger
+] with root cause log 175 ERROR 
+java.lang.Error: Unresolved compilation problem: 
+	The method fatal(String) is undefined for the type Logger
+
+	at com.adi.demo.log4j.controller.HomeController.welcome(HomeController.java:21) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:926) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:831) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[tomcat-embed-core-10.1.25.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.1.10.jar:6.1.10]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.25.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.10.jar:6.1.10]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+2024-07-18 17:15:33,486 org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification) onApplicationEvent 211 INFO 
+2024-07-18 17:15:33,587 org.springframework.boot.StartupInfoLogger Starting Application using Java 17.0.7 with PID 10332 (D:\ADI\STS\Practice\10-log4j-2\target\classes started by Adinath75 in D:\ADI\STS\Practice\10-log4j-2) logStarting 50 INFO 
+2024-07-18 17:15:33,587 org.springframework.boot.SpringApplication No active profile set, falling back to 1 default profile: "default" logStartupProfileInfo 654 INFO 
+2024-07-18 17:15:33,706 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port 8080 (http) initialize 111 INFO 
+2024-07-18 17:15:33,707 org.apache.juli.logging.DirectJDKLog Starting service [Tomcat] log 173 INFO 
+2024-07-18 17:15:33,707 org.apache.juli.logging.DirectJDKLog Starting Servlet engine: [Apache Tomcat/10.1.25] log 173 INFO 
+2024-07-18 17:15:33,718 org.apache.juli.logging.DirectJDKLog Initializing Spring embedded WebApplicationContext log 173 INFO 
+2024-07-18 17:15:33,718 org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 130 ms prepareWebApplicationContext 296 INFO 
+2024-07-18 17:15:33,768 org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729 startServer 59 INFO 
+2024-07-18 17:15:33,779 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port 8080 (http) with context path '/' start 243 INFO 
+2024-07-18 17:15:33,783 org.springframework.boot.StartupInfoLogger Started Application in 0.212 seconds (process running for 340.819) logStarted 56 INFO 
+2024-07-18 17:15:33,784 org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener Condition evaluation unchanged onApplicationEvent 63 INFO 
+2024-07-18 17:15:38,533 org.apache.juli.logging.DirectJDKLog Initializing Spring DispatcherServlet 'dispatcherServlet' log 173 INFO 
+2024-07-18 17:15:38,533 org.springframework.web.servlet.FrameworkServlet Initializing Servlet 'dispatcherServlet' initServletBean 532 INFO 
+2024-07-18 17:15:38,534 org.springframework.web.servlet.FrameworkServlet Completed initialization in 1 ms initServletBean 554 INFO 
+2024-07-18 17:15:38,537 com.adi.demo.log4j.controller.HomeController from info method welcome 18 INFO 
+2024-07-18 17:15:38,537 com.adi.demo.log4j.controller.HomeController from warn method welcome 19 WARN 
+2024-07-18 17:15:38,537 com.adi.demo.log4j.controller.HomeController from error method welcome 20 ERROR 
+2024-07-18 17:17:18,449 org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification) onApplicationEvent 211 INFO 
+2024-07-18 17:17:18,608 org.springframework.boot.StartupInfoLogger Starting Application using Java 17.0.7 with PID 10332 (D:\ADI\STS\Practice\10-log4j-2\target\classes started by Adinath75 in D:\ADI\STS\Practice\10-log4j-2) logStarting 50 INFO 
+2024-07-18 17:17:18,609 org.springframework.boot.StartupInfoLogger Running with Spring Boot v3.3.1, Spring v6.1.10 logStarting 51 DEBUG 
+2024-07-18 17:17:18,609 org.springframework.boot.SpringApplication No active profile set, falling back to 1 default profile: "default" logStartupProfileInfo 654 INFO 
+2024-07-18 17:17:18,610 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,611 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.internalCachingMetadataReaderFactory' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,614 org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider Identified candidate component class: file [D:\ADI\STS\Practice\10-log4j-2\target\classes\com\adi\demo\log4j\controller\HomeController.class] scanCandidateComponents 476 DEBUG 
+2024-07-18 17:17:18,699 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'propertySourcesPlaceholderConfigurer' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,699 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.sql.init.dependency.DatabaseInitializationDependencyConfigurer$DependsOnDatabaseInitializationPostProcessor' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,701 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,702 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'preserveErrorControllerTargetClassPostProcessor' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,702 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'forceAutoProxyCreatorToUseClassProxying' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,703 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,704 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,705 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,706 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,706 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.context.internalConfigurationPropertiesBinder' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,707 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,708 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'webServerFactoryCustomizerBeanPostProcessor' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,708 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'errorPageRegistrarBeanPostProcessor' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,709 org.springframework.ui.context.support.UiApplicationContextUtils Unable to locate ThemeSource with name 'themeSource': using default [org.springframework.ui.context.support.ResourceBundleThemeSource@6f8c4c6a] initThemeSource 86 DEBUG 
+2024-07-18 17:17:18,709 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'tomcatServletWebServerFactory' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,709 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryConfiguration$EmbeddedTomcat' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,711 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'websocketServletWebServerCustomizer' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,711 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.websocket.servlet.WebSocketServletAutoConfiguration$TomcatWebSocketConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,712 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'servletWebServerFactoryCustomizer' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,712 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryAutoConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,712 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'server-org.springframework.boot.autoconfigure.web.ServerProperties' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,712 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.context.properties.BoundConfigurationProperties' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,720 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'servletWebServerFactoryCustomizer' via factory method to bean named 'server-org.springframework.boot.autoconfigure.web.ServerProperties' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,721 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'sslBundleRegistry' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,721 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.ssl.SslAutoConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,721 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'spring.ssl-org.springframework.boot.autoconfigure.ssl.SslProperties' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,722 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'org.springframework.boot.autoconfigure.ssl.SslAutoConfiguration' via constructor to bean named 'spring.ssl-org.springframework.boot.autoconfigure.ssl.SslProperties' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,722 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'sslPropertiesSslBundleRegistrar' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,722 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'fileWatcher' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,722 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'sslPropertiesSslBundleRegistrar' via factory method to bean named 'fileWatcher' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,723 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'tomcatServletWebServerFactoryCustomizer' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,723 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'tomcatServletWebServerFactoryCustomizer' via factory method to bean named 'server-org.springframework.boot.autoconfigure.web.ServerProperties' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,723 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'tomcatWebServerFactoryCustomizer' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,723 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.web.embedded.EmbeddedWebServerFactoryCustomizerAutoConfiguration$TomcatWebServerFactoryCustomizerConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,723 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'tomcatWebServerFactoryCustomizer' via factory method to bean named 'environment' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,724 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'tomcatWebServerFactoryCustomizer' via factory method to bean named 'server-org.springframework.boot.autoconfigure.web.ServerProperties' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,724 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'localeCharsetMappingsCustomizer' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,724 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.web.servlet.HttpEncodingAutoConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,724 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'org.springframework.boot.autoconfigure.web.servlet.HttpEncodingAutoConfiguration' via constructor to bean named 'server-org.springframework.boot.autoconfigure.web.ServerProperties' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,725 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'errorPageCustomizer' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,726 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,727 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration' via constructor to bean named 'server-org.springframework.boot.autoconfigure.web.ServerProperties' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,727 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'dispatcherServletRegistration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,727 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration$DispatcherServletRegistrationConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,727 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'dispatcherServlet' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,728 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration$DispatcherServletConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,728 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'spring.mvc-org.springframework.boot.autoconfigure.web.servlet.WebMvcProperties' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,730 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'dispatcherServlet' via factory method to bean named 'spring.mvc-org.springframework.boot.autoconfigure.web.servlet.WebMvcProperties' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,730 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'dispatcherServletRegistration' via factory method to bean named 'dispatcherServlet' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,731 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'dispatcherServletRegistration' via factory method to bean named 'spring.mvc-org.springframework.boot.autoconfigure.web.servlet.WebMvcProperties' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,731 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'multipartConfigElement' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,731 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.web.servlet.MultipartAutoConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,731 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'spring.servlet.multipart-org.springframework.boot.autoconfigure.web.servlet.MultipartProperties' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,732 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'org.springframework.boot.autoconfigure.web.servlet.MultipartAutoConfiguration' via constructor to bean named 'spring.servlet.multipart-org.springframework.boot.autoconfigure.web.servlet.MultipartProperties' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,733 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'errorPageCustomizer' via factory method to bean named 'dispatcherServletRegistration' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,735 org.apache.juli.logging.DirectJDKLog Add container child [StandardHost[localhost]] to container [StandardEngine[Tomcat]] log 173 DEBUG 
+2024-07-18 17:17:18,737 org.apache.juli.logging.DirectJDKLog Add container child [TomcatEmbeddedContext[]] to container [StandardEngine[Tomcat].StandardHost[localhost]] log 173 DEBUG 
+2024-07-18 17:17:18,740 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port 8080 (http) initialize 111 INFO 
+2024-07-18 17:17:18,741 org.apache.juli.logging.DirectJDKLog Starting service [Tomcat] log 173 INFO 
+2024-07-18 17:17:18,741 org.apache.juli.logging.DirectJDKLog Starting Servlet engine: [Apache Tomcat/10.1.25] log 173 INFO 
+2024-07-18 17:17:18,754 org.apache.juli.logging.DirectJDKLog Starting this Loader log 173 DEBUG 
+2024-07-18 17:17:18,766 org.apache.juli.logging.DirectJDKLog Initializing Spring embedded WebApplicationContext log 173 INFO 
+2024-07-18 17:17:18,766 org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 156 ms prepareWebApplicationContext 296 INFO 
+2024-07-18 17:17:18,768 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'requestContextFilter' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,769 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'formContentFilter' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,770 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,771 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'characterEncodingFilter' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,774 org.apache.juli.logging.DirectJDKLog Add container child [StandardWrapper[dispatcherServlet]] to container [StandardEngine[Tomcat].StandardHost[localhost].TomcatEmbeddedContext[]] log 173 DEBUG 
+2024-07-18 17:17:18,776 org.apache.juli.logging.DirectJDKLog Persisted data file [C:\Users\ADINAT~1\AppData\Local\Temp\167DAB0E3B673309CE813813CC33B9EADE3574E5\servlet-sessions\SESSIONS.ser] was not found log 173 DEBUG 
+2024-07-18 17:17:18,777 org.apache.juli.logging.DirectJDKLog Registered host [localhost] log 173 DEBUG 
+2024-07-18 17:17:18,777 org.apache.juli.logging.DirectJDKLog Register Wrapper [dispatcherServlet] in Context [] for service [StandardService[Tomcat]] log 173 DEBUG 
+2024-07-18 17:17:18,778 org.apache.juli.logging.DirectJDKLog Register Context [] for service [StandardService[Tomcat]] log 173 DEBUG 
+2024-07-18 17:17:18,778 org.apache.juli.logging.DirectJDKLog Register host [localhost] at domain [null] for service [StandardService[Tomcat]] log 173 DEBUG 
+2024-07-18 17:17:18,779 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'application' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,779 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'homeController' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,780 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.AutoConfigurationPackages' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,780 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,781 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.context.properties.EnableConfigurationPropertiesRegistrar.methodValidationExcludeFilter' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,781 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.websocket.servlet.WebSocketServletAutoConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,781 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,782 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.task.TaskExecutorConfigurations$ThreadPoolTaskExecutorBuilderConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,782 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'threadPoolTaskExecutorBuilder' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,783 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'spring.task.execution-org.springframework.boot.autoconfigure.task.TaskExecutionProperties' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,786 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'threadPoolTaskExecutorBuilder' via factory method to bean named 'spring.task.execution-org.springframework.boot.autoconfigure.task.TaskExecutionProperties' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,787 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.task.TaskExecutorConfigurations$TaskExecutorBuilderConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,787 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'taskExecutorBuilder' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,787 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'taskExecutorBuilder' via factory method to bean named 'spring.task.execution-org.springframework.boot.autoconfigure.task.TaskExecutionProperties' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,788 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.task.TaskExecutorConfigurations$SimpleAsyncTaskExecutorBuilderConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,788 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'org.springframework.boot.autoconfigure.task.TaskExecutorConfigurations$SimpleAsyncTaskExecutorBuilderConfiguration' via constructor to bean named 'spring.task.execution-org.springframework.boot.autoconfigure.task.TaskExecutionProperties' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,788 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'simpleAsyncTaskExecutorBuilder' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,789 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.task.TaskExecutorConfigurations$TaskExecutorConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,789 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.task.TaskExecutionAutoConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,790 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration$WhitelabelErrorViewConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,790 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'error' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,790 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'beanNameViewResolver' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,791 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration$DefaultErrorViewResolverConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,791 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'spring.web-org.springframework.boot.autoconfigure.web.WebProperties' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,794 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration$DefaultErrorViewResolverConfiguration' via constructor to bean named 'org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@13820c0e' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,794 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration$DefaultErrorViewResolverConfiguration' via constructor to bean named 'spring.web-org.springframework.boot.autoconfigure.web.WebProperties' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,795 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'conventionErrorViewResolver' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,795 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'errorAttributes' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,795 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'basicErrorController' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,796 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'basicErrorController' via factory method to bean named 'errorAttributes' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,796 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$EnableWebMvcConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,797 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$EnableWebMvcConfiguration' via constructor to bean named 'spring.mvc-org.springframework.boot.autoconfigure.web.servlet.WebMvcProperties' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,797 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$EnableWebMvcConfiguration' via constructor to bean named 'spring.web-org.springframework.boot.autoconfigure.web.WebProperties' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,797 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$EnableWebMvcConfiguration' via constructor to bean named 'org.springframework.beans.factory.support.DefaultListableBeanFactory@61260b1e' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,798 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$WebMvcAutoConfigurationAdapter' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,798 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$WebMvcAutoConfigurationAdapter' via constructor to bean named 'spring.web-org.springframework.boot.autoconfigure.web.WebProperties' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,799 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$WebMvcAutoConfigurationAdapter' via constructor to bean named 'spring.mvc-org.springframework.boot.autoconfigure.web.servlet.WebMvcProperties' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,799 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$WebMvcAutoConfigurationAdapter' via constructor to bean named 'org.springframework.beans.factory.support.DefaultListableBeanFactory@61260b1e' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,800 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'welcomePageHandlerMapping' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,801 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'mvcConversionService' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,803 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'mvcResourceUrlProvider' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,803 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'welcomePageHandlerMapping' via factory method to bean named 'org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@13820c0e' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,803 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'welcomePageHandlerMapping' via factory method to bean named 'mvcConversionService' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,803 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'welcomePageHandlerMapping' via factory method to bean named 'mvcResourceUrlProvider' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,806 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'welcomePageNotAcceptableHandlerMapping' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,806 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'welcomePageNotAcceptableHandlerMapping' via factory method to bean named 'org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@13820c0e' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,806 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'welcomePageNotAcceptableHandlerMapping' via factory method to bean named 'mvcConversionService' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,806 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'welcomePageNotAcceptableHandlerMapping' via factory method to bean named 'mvcResourceUrlProvider' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,808 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'localeResolver' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,809 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'themeResolver' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,810 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'flashMapManager' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,810 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'mvcValidator' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,811 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'mvcContentNegotiationManager' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,811 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'requestMappingHandlerMapping' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,812 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'requestMappingHandlerMapping' via factory method to bean named 'mvcContentNegotiationManager' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,812 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'requestMappingHandlerMapping' via factory method to bean named 'mvcConversionService' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,812 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'requestMappingHandlerMapping' via factory method to bean named 'mvcResourceUrlProvider' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,814 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping 
+	c.a.d.l.c.HomeController:
+	{GET [/]}: welcome() detectHandlerMethods 294 DEBUG 
+2024-07-18 17:17:18,816 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping 
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse) detectHandlerMethods 294 DEBUG 
+2024-07-18 17:17:18,820 org.springframework.web.servlet.handler.AbstractHandlerMethodMapping 3 mappings in 'requestMappingHandlerMapping' handlerMethodsInitialized 366 DEBUG 
+2024-07-18 17:17:18,821 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'mvcPatternParser' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,821 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'mvcUrlPathHelper' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,821 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'mvcPathMatcher' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,821 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'viewControllerHandlerMapping' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,822 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'viewControllerHandlerMapping' via factory method to bean named 'mvcConversionService' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,823 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'viewControllerHandlerMapping' via factory method to bean named 'mvcResourceUrlProvider' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,823 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'beanNameHandlerMapping' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,824 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'beanNameHandlerMapping' via factory method to bean named 'mvcConversionService' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,824 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'beanNameHandlerMapping' via factory method to bean named 'mvcResourceUrlProvider' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,825 org.springframework.web.servlet.handler.AbstractDetectingUrlHandlerMapping 'beanNameHandlerMapping' {} detectHandlers 86 DEBUG 
+2024-07-18 17:17:18,826 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'routerFunctionMapping' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,826 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'routerFunctionMapping' via factory method to bean named 'mvcConversionService' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,826 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'routerFunctionMapping' via factory method to bean named 'mvcResourceUrlProvider' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,826 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'messageConverters' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,826 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.http.HttpMessageConvertersAutoConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,828 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'stringHttpMessageConverter' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,828 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.http.HttpMessageConvertersAutoConfiguration$StringHttpMessageConverterConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,829 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'stringHttpMessageConverter' via factory method to bean named 'environment' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,830 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'mappingJackson2HttpMessageConverter' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,831 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.http.JacksonHttpMessageConvertersConfiguration$MappingJackson2HttpMessageConverterConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,831 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'jacksonObjectMapper' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,831 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$JacksonObjectMapperConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,832 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$JacksonObjectMapperBuilderConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,834 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'standardJacksonObjectMapperBuilderCustomizer' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,834 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$Jackson2ObjectMapperBuilderCustomizerConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,835 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'spring.jackson-org.springframework.boot.autoconfigure.jackson.JacksonProperties' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,837 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'standardJacksonObjectMapperBuilderCustomizer' via factory method to bean named 'spring.jackson-org.springframework.boot.autoconfigure.jackson.JacksonProperties' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,838 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'parameterNamesModule' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,838 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$ParameterNamesModuleConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,839 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'jsonMixinModule' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,839 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$JacksonMixinConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,839 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'jsonMixinModuleEntries' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,840 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'jsonMixinModuleEntries' via factory method to bean named 'org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@13820c0e' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,841 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'jsonMixinModule' via factory method to bean named 'org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@13820c0e' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,842 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'jsonMixinModule' via factory method to bean named 'jsonMixinModuleEntries' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,842 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'jsonComponentModule' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,842 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,844 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'jacksonObjectMapperBuilder' via factory method to bean named 'org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@13820c0e' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,844 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'jacksonObjectMapperBuilder' via factory method to bean named 'standardJacksonObjectMapperBuilderCustomizer' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,844 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'jacksonObjectMapper' via factory method to bean named 'jacksonObjectMapperBuilder' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,846 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'mappingJackson2HttpMessageConverter' via factory method to bean named 'jacksonObjectMapper' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,849 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'resourceHandlerMapping' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,850 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'resourceHandlerMapping' via factory method to bean named 'mvcContentNegotiationManager' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,850 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'resourceHandlerMapping' via factory method to bean named 'mvcConversionService' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,851 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'resourceHandlerMapping' via factory method to bean named 'mvcResourceUrlProvider' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,852 org.springframework.web.servlet.handler.SimpleUrlHandlerMapping 'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]} logMappings 176 DEBUG 
+2024-07-18 17:17:18,853 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'defaultServletHandlerMapping' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,853 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'requestMappingHandlerAdapter' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,854 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'requestMappingHandlerAdapter' via factory method to bean named 'mvcContentNegotiationManager' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,854 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'requestMappingHandlerAdapter' via factory method to bean named 'mvcConversionService' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,854 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'requestMappingHandlerAdapter' via factory method to bean named 'mvcValidator' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,854 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'applicationTaskExecutor' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,856 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'applicationTaskExecutor' via factory method to bean named 'taskExecutorBuilder' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,857 org.springframework.scheduling.concurrent.ExecutorConfigurationSupport Initializing ExecutorService 'applicationTaskExecutor' initialize 264 DEBUG 
+2024-07-18 17:17:18,861 org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice initControllerAdviceCache 634 DEBUG 
+2024-07-18 17:17:18,862 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'handlerFunctionAdapter' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,862 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'mvcUriComponentsContributor' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,862 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'mvcUriComponentsContributor' via factory method to bean named 'mvcConversionService' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,862 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'mvcUriComponentsContributor' via factory method to bean named 'requestMappingHandlerAdapter' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,863 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'httpRequestHandlerAdapter' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,863 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'simpleControllerHandlerAdapter' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,863 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'handlerExceptionResolver' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,863 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'handlerExceptionResolver' via factory method to bean named 'mvcContentNegotiationManager' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,865 org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice initExceptionHandlerAdviceCache 305 DEBUG 
+2024-07-18 17:17:18,866 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'mvcViewResolver' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,867 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'mvcViewResolver' via factory method to bean named 'mvcContentNegotiationManager' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,867 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'viewNameTranslator' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,867 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'defaultViewResolver' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,868 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'viewResolver' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,868 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'viewResolver' via factory method to bean named 'org.springframework.beans.factory.support.DefaultListableBeanFactory@61260b1e' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,869 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'viewResolver' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,869 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.jmx.JmxAutoConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,869 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'spring.jmx-org.springframework.boot.autoconfigure.jmx.JmxProperties' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,870 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'org.springframework.boot.autoconfigure.jmx.JmxAutoConfiguration' via constructor to bean named 'spring.jmx-org.springframework.boot.autoconfigure.jmx.JmxProperties' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,871 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'mbeanExporter' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,871 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'objectNamingStrategy' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,871 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'mbeanExporter' via factory method to bean named 'objectNamingStrategy' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,871 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'mbeanExporter' via factory method to bean named 'org.springframework.beans.factory.support.DefaultListableBeanFactory@61260b1e' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,871 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'mbeanServer' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,871 org.springframework.jmx.support.JmxUtils Found MBeanServer: com.sun.jmx.mbeanserver.JmxMBeanServer@185d8b6 locateMBeanServer 127 DEBUG 
+2024-07-18 17:17:18,872 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.admin.SpringApplicationAdminJmxAutoConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,872 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'springApplicationAdminRegistrar' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,872 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'springApplicationAdminRegistrar' via factory method to bean named 'environment' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,873 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.aop.AopAutoConfiguration$ClassProxyingConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,874 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.aop.AopAutoConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,874 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.availability.ApplicationAvailabilityAutoConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,874 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'applicationAvailability' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,874 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.context.ConfigurationPropertiesAutoConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,874 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.context.LifecycleAutoConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,874 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'lifecycleProcessor' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,875 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'spring.lifecycle-org.springframework.boot.autoconfigure.context.LifecycleProperties' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,876 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'lifecycleProcessor' via factory method to bean named 'spring.lifecycle-org.springframework.boot.autoconfigure.context.LifecycleProperties' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,876 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.http.JacksonHttpMessageConvertersConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,877 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.info.ProjectInfoAutoConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,877 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'spring.info-org.springframework.boot.autoconfigure.info.ProjectInfoProperties' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,878 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'org.springframework.boot.autoconfigure.info.ProjectInfoAutoConfiguration' via constructor to bean named 'spring.info-org.springframework.boot.autoconfigure.info.ProjectInfoProperties' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,878 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.sql.init.SqlInitializationAutoConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,878 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'spring.sql.init-org.springframework.boot.autoconfigure.sql.init.SqlInitializationProperties' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,880 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.task.TaskSchedulingConfigurations$ThreadPoolTaskSchedulerBuilderConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,880 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'threadPoolTaskSchedulerBuilder' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,881 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'spring.task.scheduling-org.springframework.boot.autoconfigure.task.TaskSchedulingProperties' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,882 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'threadPoolTaskSchedulerBuilder' via factory method to bean named 'spring.task.scheduling-org.springframework.boot.autoconfigure.task.TaskSchedulingProperties' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,884 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.task.TaskSchedulingConfigurations$TaskSchedulerBuilderConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,884 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'taskSchedulerBuilder' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,884 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'taskSchedulerBuilder' via factory method to bean named 'spring.task.scheduling-org.springframework.boot.autoconfigure.task.TaskSchedulingProperties' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,884 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.task.TaskSchedulingConfigurations$SimpleAsyncTaskSchedulerBuilderConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,884 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'org.springframework.boot.autoconfigure.task.TaskSchedulingConfigurations$SimpleAsyncTaskSchedulerBuilderConfiguration' via constructor to bean named 'spring.task.scheduling-org.springframework.boot.autoconfigure.task.TaskSchedulingProperties' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,885 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'simpleAsyncTaskSchedulerBuilder' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,886 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.task.TaskSchedulingAutoConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,886 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.web.client.RestClientAutoConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,886 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'httpMessageConvertersRestClientCustomizer' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,887 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'restClientSsl' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,887 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'restClientSsl' via factory method to bean named 'sslBundleRegistry' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,887 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'restClientBuilderConfigurer' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,888 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.web.client.RestTemplateAutoConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,888 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.web.embedded.EmbeddedWebServerFactoryCustomizerAutoConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,888 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'multipartResolver' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,888 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,888 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'spring.devtools-org.springframework.boot.devtools.autoconfigure.DevToolsProperties' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,889 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartConfiguration' via constructor to bean named 'spring.devtools-org.springframework.boot.devtools.autoconfigure.DevToolsProperties' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,889 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'restartingClassPathChangedEventListener' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,889 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'fileSystemWatcherFactory' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,890 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'restartingClassPathChangedEventListener' via factory method to bean named 'fileSystemWatcherFactory' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,890 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'classPathFileSystemWatcher' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,890 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'classPathRestartStrategy' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,890 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'classPathFileSystemWatcher' via factory method to bean named 'fileSystemWatcherFactory' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,891 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'classPathFileSystemWatcher' via factory method to bean named 'classPathRestartStrategy' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,891 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'conditionEvaluationDeltaLoggingListener' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,891 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$LiveReloadConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,891 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'optionalLiveReloadServer' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,892 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'optionalLiveReloadServer' via factory method to bean named 'liveReloadServer' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,892 org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729 startServer 59 INFO 
+2024-07-18 17:17:18,892 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'liveReloadServerEventListener' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,892 org.springframework.beans.factory.support.ConstructorResolver Autowiring by type from bean name 'liveReloadServerEventListener' via factory method to bean named 'optionalLiveReloadServer' registerDependentBeans 945 DEBUG 
+2024-07-18 17:17:18,893 org.springframework.beans.factory.support.DefaultSingletonBeanRegistry Creating shared instance of singleton bean 'org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration' getSingleton 225 DEBUG 
+2024-07-18 17:17:18,897 org.springframework.jmx.export.MBeanExporter Registering beans for JMX exposure on startup afterSingletonsInstantiated 450 DEBUG 
+2024-07-18 17:17:18,898 org.springframework.jmx.export.MBeanExporter Auto-detecting user-defined JMX MBeans registerBeans 557 DEBUG 
+2024-07-18 17:17:18,901 org.springframework.context.support.DefaultLifecycleProcessor$LifecycleGroup Starting beans in phase -2147483647 start 466 DEBUG 
+2024-07-18 17:17:18,901 org.springframework.context.support.DefaultLifecycleProcessor Successfully started bean 'springBootLoggingLifecycle' doStart 291 DEBUG 
+2024-07-18 17:17:18,902 org.springframework.context.support.DefaultLifecycleProcessor$LifecycleGroup Starting beans in phase 2147481599 start 466 DEBUG 
+2024-07-18 17:17:18,914 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port 8080 (http) with context path '/' start 243 INFO 
+2024-07-18 17:17:18,914 org.springframework.context.support.DefaultLifecycleProcessor Successfully started bean 'webServerStartStop' doStart 291 DEBUG 
+2024-07-18 17:17:18,914 org.springframework.context.support.DefaultLifecycleProcessor$LifecycleGroup Starting beans in phase 2147482623 start 466 DEBUG 
+2024-07-18 17:17:18,914 org.springframework.context.support.DefaultLifecycleProcessor Successfully started bean 'webServerGracefulShutdown' doStart 291 DEBUG 
+2024-07-18 17:17:18,914 org.springframework.context.support.DefaultLifecycleProcessor$LifecycleGroup Starting beans in phase 2147483647 start 466 DEBUG 
+2024-07-18 17:17:18,921 org.springframework.boot.StartupInfoLogger Started Application in 0.328 seconds (process running for 445.956) logStarted 56 INFO 
+2024-07-18 17:17:18,922 org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener Condition evaluation unchanged onApplicationEvent 63 INFO 
+2024-07-18 17:17:29,984 org.apache.juli.logging.DirectJDKLog Initializing Spring DispatcherServlet 'dispatcherServlet' log 173 INFO 
+2024-07-18 17:17:29,986 org.springframework.web.servlet.FrameworkServlet Initializing Servlet 'dispatcherServlet' initServletBean 532 INFO 
+2024-07-18 17:17:29,986 org.springframework.web.servlet.DispatcherServlet Detected StandardServletMultipartResolver initMultipartResolver 533 DEBUG 
+2024-07-18 17:17:29,986 org.springframework.web.servlet.DispatcherServlet Detected AcceptHeaderLocaleResolver initLocaleResolver 557 DEBUG 
+2024-07-18 17:17:29,986 org.springframework.web.servlet.DispatcherServlet Detected FixedThemeResolver initThemeResolver 583 DEBUG 
+2024-07-18 17:17:29,987 org.springframework.web.servlet.DispatcherServlet Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@72296cc0 initRequestToViewNameTranslator 733 DEBUG 
+2024-07-18 17:17:29,988 org.springframework.web.servlet.DispatcherServlet Detected org.springframework.web.servlet.support.SessionFlashMapManager@7cee8cf5 initFlashMapManager 797 DEBUG 
+2024-07-18 17:17:29,988 org.springframework.web.servlet.FrameworkServlet enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data initServletBean 549 DEBUG 
+2024-07-18 17:17:29,989 org.springframework.web.servlet.FrameworkServlet Completed initialization in 3 ms initServletBean 554 INFO 
+2024-07-18 17:17:29,995 org.springframework.core.log.LogFormatUtils GET "/", parameters={} traceDebug 120 DEBUG 
+2024-07-18 17:17:29,996 org.springframework.web.servlet.handler.AbstractHandlerMapping Mapped to com.adi.demo.log4j.controller.HomeController#welcome() getHandler 531 DEBUG 
+2024-07-18 17:17:29,998 com.adi.demo.log4j.controller.HomeController from debug method welcome 16 DEBUG 
+2024-07-18 17:17:29,999 com.adi.demo.log4j.controller.HomeController from info method welcome 18 INFO 
+2024-07-18 17:17:29,999 com.adi.demo.log4j.controller.HomeController from warn method welcome 19 WARN 
+2024-07-18 17:17:29,999 com.adi.demo.log4j.controller.HomeController from error method welcome 20 ERROR 
+2024-07-18 17:17:30,002 org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor Using 'text/html', given [text/html, application/xhtml+xml, image/avif, image/webp, image/apng, application/xml;q=0.9, */*;q=0.8, application/signed-exchange;v=b3;q=0.7] and supported [text/plain, */*, application/json, application/*+json] writeWithMessageConverters 275 DEBUG 
+2024-07-18 17:17:30,004 org.springframework.core.log.LogFormatUtils Writing ["Welcome to Logger demo"] traceDebug 120 DEBUG 
+2024-07-18 17:17:30,006 org.springframework.web.servlet.FrameworkServlet Completed 200 OK logResult 1138 DEBUG 
+2024-07-18 17:17:37,809 org.apache.juli.logging.DirectJDKLog Error parsing HTTP request header log 175 DEBUG 
+java.io.EOFException: null
+	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.fillReadBuffer(NioEndpoint.java:1293) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.read(NioEndpoint.java:1181) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.http11.Http11InputBuffer.fill(Http11InputBuffer.java:789) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:348) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:262) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+2024-07-18 17:17:37,809 org.apache.juli.logging.DirectJDKLog Error parsing HTTP request header log 175 DEBUG 
+java.io.EOFException: null
+	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.fillReadBuffer(NioEndpoint.java:1293) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.read(NioEndpoint.java:1181) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.http11.Http11InputBuffer.fill(Http11InputBuffer.java:789) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:348) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:262) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+2024-07-18 17:17:37,810 org.apache.juli.logging.DirectJDKLog Error state [CLOSE_CONNECTION_NOW] reported while processing request log 175 DEBUG 
+java.io.EOFException: null
+	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.fillReadBuffer(NioEndpoint.java:1293) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.read(NioEndpoint.java:1181) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.http11.Http11InputBuffer.fill(Http11InputBuffer.java:789) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:348) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:262) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+2024-07-18 17:17:37,810 org.apache.juli.logging.DirectJDKLog Error state [CLOSE_CONNECTION_NOW] reported while processing request log 175 DEBUG 
+java.io.EOFException: null
+	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.fillReadBuffer(NioEndpoint.java:1293) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.read(NioEndpoint.java:1181) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.http11.Http11InputBuffer.fill(Http11InputBuffer.java:789) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:348) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:262) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.25.jar:10.1.25]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+2024-07-18 17:17:53,581 sun.rmi.runtime.Log$LoggerLog RMI TCP Connection(10)-127.0.0.1: accepted socket from [127.0.0.1:62659] log 228 DEBUG 
+2024-07-18 17:17:53,582 sun.rmi.runtime.Log$LoggerLog RMI TCP Connection(10)-127.0.0.1: (port 62614) op = 80 log 228 DEBUG 
+2024-07-18 17:17:53,583 sun.util.logging.internal.LoggingProviderImpl$JULWrapper connectionId=rmi://127.0.0.1  1 log 230 DEBUG 
+2024-07-18 17:18:08,587 sun.rmi.runtime.Log$LoggerLog RMI TCP Connection(10)-127.0.0.1: (port 62614) connection closed log 228 DEBUG 
+2024-07-18 17:18:08,593 sun.rmi.runtime.Log$LoggerLog RMI TCP Connection(10)-127.0.0.1: close connection, socket: Socket[addr=/127.0.0.1,port=62659,localport=62614] log 228 DEBUG 
+2024-07-18 17:18:08,594 sun.rmi.runtime.Log$LoggerLog RMI TCP Connection(10)-127.0.0.1: socket close: Socket[addr=/127.0.0.1,port=62659,localport=62614] log 228 DEBUG 
+2024-07-18 17:18:52,372 org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification) onApplicationEvent 211 INFO 
+2024-07-18 17:18:52,374 org.springframework.context.support.DefaultLifecycleProcessor$LifecycleGroup Stopping beans in phase 2147483647 stop 478 DEBUG 
+2024-07-18 17:18:52,374 org.springframework.context.support.DefaultLifecycleProcessor Bean 'applicationTaskExecutor' completed its stop procedure lambda$doStop$4 350 DEBUG 
+2024-07-18 17:18:52,375 org.springframework.context.support.DefaultLifecycleProcessor$LifecycleGroup Stopping beans in phase 2147482623 stop 478 DEBUG 
+2024-07-18 17:18:52,375 org.springframework.context.support.DefaultLifecycleProcessor Bean 'webServerGracefulShutdown' completed its stop procedure lambda$doStop$4 350 DEBUG 
+2024-07-18 17:18:52,375 org.springframework.context.support.DefaultLifecycleProcessor$LifecycleGroup Stopping beans in phase 2147481599 stop 478 DEBUG 
+2024-07-18 17:18:52,456 org.springframework.context.support.DefaultLifecycleProcessor Bean 'webServerStartStop' completed its stop procedure lambda$doStop$4 350 DEBUG 
+2024-07-18 17:18:52,456 org.springframework.context.support.DefaultLifecycleProcessor$LifecycleGroup Stopping beans in phase -2147483647 stop 478 DEBUG 
+2024-07-18 17:18:52,457 org.springframework.context.support.DefaultLifecycleProcessor Bean 'springBootLoggingLifecycle' completed its stop procedure lambda$doStop$4 350 DEBUG 
+2024-07-18 17:18:52,457 org.springframework.jmx.export.MBeanExporter Unregistering JMX-exposed beans on shutdown destroy 468 DEBUG 
+2024-07-18 17:18:52,457 org.springframework.scheduling.concurrent.ExecutorConfigurationSupport Shutting down ExecutorService 'applicationTaskExecutor' shutdown 328 DEBUG 
+2024-07-18 17:18:52,515 org.springframework.boot.StartupInfoLogger Starting Application using Java 17.0.7 with PID 10332 (D:\ADI\STS\Practice\10-log4j-2\target\classes started by Adinath75 in D:\ADI\STS\Practice\10-log4j-2) logStarting 50 INFO 
+2024-07-18 17:18:52,515 org.springframework.boot.SpringApplication No active profile set, falling back to 1 default profile: "default" logStartupProfileInfo 654 INFO 
+2024-07-18 17:18:52,699 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port 8080 (http) initialize 111 INFO 
+2024-07-18 17:18:52,700 org.apache.juli.logging.DirectJDKLog Starting service [Tomcat] log 173 INFO 
+2024-07-18 17:18:52,700 org.apache.juli.logging.DirectJDKLog Starting Servlet engine: [Apache Tomcat/10.1.25] log 173 INFO 
+2024-07-18 17:18:52,715 org.apache.juli.logging.DirectJDKLog Initializing Spring embedded WebApplicationContext log 173 INFO 
+2024-07-18 17:18:52,715 org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 198 ms prepareWebApplicationContext 296 INFO 
+2024-07-18 17:18:52,772 org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729 startServer 59 INFO 
+2024-07-18 17:18:52,779 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port 8080 (http) with context path '/' start 243 INFO 
+2024-07-18 17:18:52,786 org.springframework.boot.StartupInfoLogger Started Application in 0.295 seconds (process running for 539.822) logStarted 56 INFO 
+2024-07-18 17:18:52,787 org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener Condition evaluation unchanged onApplicationEvent 63 INFO 
+2024-07-18 17:19:03,514 org.apache.juli.logging.DirectJDKLog Initializing Spring DispatcherServlet 'dispatcherServlet' log 173 INFO 
+2024-07-18 17:19:03,514 org.springframework.web.servlet.FrameworkServlet Initializing Servlet 'dispatcherServlet' initServletBean 532 INFO 
+2024-07-18 17:19:03,516 org.springframework.web.servlet.FrameworkServlet Completed initialization in 2 ms initServletBean 554 INFO 
+2024-07-18 17:19:03,517 com.adi.demo.log4j.controller.HomeController from info method welcome 18 INFO 
+2024-07-18 17:19:03,517 com.adi.demo.log4j.controller.HomeController from warn method welcome 19 WARN 
+2024-07-18 17:19:03,517 com.adi.demo.log4j.controller.HomeController from error method welcome 20 ERROR 
+2024-07-18 17:19:18,126 org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin Application shutdown requested. shutdown 159 INFO 
+2024-07-18 17:19:22,219 org.springframework.boot.StartupInfoLogger Starting Application using Java 17.0.7 with PID 4320 (D:\ADI\STS\Practice\10-log4j-2\target\classes started by Adinath75 in D:\ADI\STS\Practice\10-log4j-2) logStarting 50 INFO 
+2024-07-18 17:19:22,222 org.springframework.boot.SpringApplication No active profile set, falling back to 1 default profile: "default" logStartupProfileInfo 654 INFO 
+2024-07-18 17:19:22,273 org.springframework.boot.logging.DeferredLog Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable logTo 252 INFO 
+2024-07-18 17:19:22,273 org.springframework.boot.logging.DeferredLog For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' logTo 252 INFO 
+2024-07-18 17:19:23,194 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port 8080 (http) initialize 111 INFO 
+2024-07-18 17:19:23,209 org.apache.juli.logging.DirectJDKLog Starting service [Tomcat] log 173 INFO 
+2024-07-18 17:19:23,209 org.apache.juli.logging.DirectJDKLog Starting Servlet engine: [Apache Tomcat/10.1.25] log 173 INFO 
+2024-07-18 17:19:23,271 org.apache.juli.logging.DirectJDKLog Initializing Spring embedded WebApplicationContext log 173 INFO 
+2024-07-18 17:19:23,272 org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 998 ms prepareWebApplicationContext 296 INFO 
+2024-07-18 17:19:23,641 org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729 startServer 59 INFO 
+2024-07-18 17:19:23,688 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port 8080 (http) with context path '/' start 243 INFO 
+2024-07-18 17:19:23,700 org.springframework.boot.StartupInfoLogger Started Application in 1.884 seconds (process running for 2.628) logStarted 56 INFO 
+2024-07-19 15:46:37,829 org.springframework.boot.StartupInfoLogger Starting Application using Java 17.0.7 with PID 25456 (D:\ADI\STS\Practice\10-log4j-2\target\classes started by Adinath75 in D:\ADI\STS\Practice\10-log4j-2) logStarting 50 INFO 
+2024-07-19 15:46:37,847 org.springframework.boot.SpringApplication No active profile set, falling back to 1 default profile: "default" logStartupProfileInfo 654 INFO 
+2024-07-19 15:46:37,845 org.springframework.boot.StartupInfoLogger Starting Application using Java 17.0.7 with PID 12100 (D:\ADI\STS\Practice\10-log4j-2\target\classes started by Adinath75 in D:\ADI\STS\Practice\10-log4j-2) logStarting 50 INFO 
+2024-07-19 15:46:37,899 org.springframework.boot.SpringApplication No active profile set, falling back to 1 default profile: "default" logStartupProfileInfo 654 INFO 
+2024-07-19 15:46:38,050 org.springframework.boot.logging.DeferredLog Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable logTo 252 INFO 
+2024-07-19 15:46:38,051 org.springframework.boot.logging.DeferredLog For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' logTo 252 INFO 
+2024-07-19 15:46:38,070 org.springframework.boot.logging.DeferredLog Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable logTo 252 INFO 
+2024-07-19 15:46:38,071 org.springframework.boot.logging.DeferredLog For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG' logTo 252 INFO 
+2024-07-19 15:46:39,336 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port 8080 (http) initialize 111 INFO 
+2024-07-19 15:46:39,339 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port 8080 (http) initialize 111 INFO 
+2024-07-19 15:46:39,355 org.apache.juli.logging.DirectJDKLog Starting service [Tomcat] log 173 INFO 
+2024-07-19 15:46:39,356 org.apache.juli.logging.DirectJDKLog Starting Servlet engine: [Apache Tomcat/10.1.25] log 173 INFO 
+2024-07-19 15:46:39,356 org.apache.juli.logging.DirectJDKLog Starting service [Tomcat] log 173 INFO 
+2024-07-19 15:46:39,356 org.apache.juli.logging.DirectJDKLog Starting Servlet engine: [Apache Tomcat/10.1.25] log 173 INFO 
+2024-07-19 15:46:39,417 org.apache.juli.logging.DirectJDKLog Initializing Spring embedded WebApplicationContext log 173 INFO 
+2024-07-19 15:46:39,417 org.apache.juli.logging.DirectJDKLog Initializing Spring embedded WebApplicationContext log 173 INFO 
+2024-07-19 15:46:39,417 org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1345 ms prepareWebApplicationContext 296 INFO 
+2024-07-19 15:46:39,417 org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1365 ms prepareWebApplicationContext 296 INFO 
+2024-07-19 15:46:39,837 org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729 startServer 59 INFO 
+2024-07-19 15:46:39,845 org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer Unable to start LiveReload server startServer 62 WARN 
+2024-07-19 15:46:39,867 org.springframework.context.support.AbstractApplicationContext Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop' refresh 632 WARN 
+2024-07-19 15:46:39,886 org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled. logMessage 82 INFO 
+2024-07-19 15:46:39,892 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port 8080 (http) with context path '/' start 243 INFO 
+2024-07-19 15:46:39,904 org.springframework.boot.StartupInfoLogger Started Application in 3.025 seconds (process running for 6.229) logStarted 56 INFO 
+2024-07-19 15:46:39,910 org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+ report 40 ERROR 
+2024-07-19 15:47:12,661 org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification) onApplicationEvent 211 INFO 
+2024-07-19 15:47:12,828 org.springframework.boot.StartupInfoLogger Starting Application using Java 17.0.7 with PID 25456 (D:\ADI\STS\Practice\10-log4j-2\target\classes started by Adinath75 in D:\ADI\STS\Practice\10-log4j-2) logStarting 50 INFO 
+2024-07-19 15:47:12,829 org.springframework.boot.SpringApplication No active profile set, falling back to 1 default profile: "default" logStartupProfileInfo 654 INFO 
+2024-07-19 15:47:12,997 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port 8080 (http) initialize 111 INFO 
+2024-07-19 15:47:12,999 org.apache.juli.logging.DirectJDKLog Starting service [Tomcat] log 173 INFO 
+2024-07-19 15:47:13,000 org.apache.juli.logging.DirectJDKLog Starting Servlet engine: [Apache Tomcat/10.1.25] log 173 INFO 
+2024-07-19 15:47:13,019 org.apache.juli.logging.DirectJDKLog Initializing Spring embedded WebApplicationContext log 173 INFO 
+2024-07-19 15:47:13,020 org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 189 ms prepareWebApplicationContext 296 INFO 
+2024-07-19 15:47:13,108 org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729 startServer 59 INFO 
+2024-07-19 15:47:13,119 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port 8080 (http) with context path '/' start 243 INFO 
+2024-07-19 15:47:13,125 org.springframework.boot.StartupInfoLogger Started Application in 0.329 seconds (process running for 39.45) logStarted 56 INFO 
+2024-07-19 15:47:13,128 org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener Condition evaluation unchanged onApplicationEvent 63 INFO 
+2024-07-19 15:47:16,561 org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification) onApplicationEvent 211 INFO 
+2024-07-19 15:47:16,704 org.springframework.boot.StartupInfoLogger Starting Application using Java 17.0.7 with PID 25456 (D:\ADI\STS\Practice\10-log4j-2\target\classes started by Adinath75 in D:\ADI\STS\Practice\10-log4j-2) logStarting 50 INFO 
+2024-07-19 15:47:16,704 org.springframework.boot.SpringApplication No active profile set, falling back to 1 default profile: "default" logStartupProfileInfo 654 INFO 
+2024-07-19 15:47:16,927 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port 8080 (http) initialize 111 INFO 
+2024-07-19 15:47:16,930 org.apache.juli.logging.DirectJDKLog Starting service [Tomcat] log 173 INFO 
+2024-07-19 15:47:16,930 org.apache.juli.logging.DirectJDKLog Starting Servlet engine: [Apache Tomcat/10.1.25] log 173 INFO 
+2024-07-19 15:47:16,952 org.apache.juli.logging.DirectJDKLog Initializing Spring embedded WebApplicationContext log 173 INFO 
+2024-07-19 15:47:16,952 org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 245 ms prepareWebApplicationContext 296 INFO 
+2024-07-19 15:47:17,005 org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729 startServer 59 INFO 
+2024-07-19 15:47:17,023 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port 8080 (http) with context path '/' start 243 INFO 
+2024-07-19 15:47:17,029 org.springframework.boot.StartupInfoLogger Started Application in 0.343 seconds (process running for 43.354) logStarted 56 INFO 
+2024-07-19 15:47:17,031 org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener Condition evaluation unchanged onApplicationEvent 63 INFO 
+2024-07-19 15:47:17,871 org.apache.juli.logging.DirectJDKLog Initializing Spring DispatcherServlet 'dispatcherServlet' log 173 INFO 
+2024-07-19 15:47:17,873 org.springframework.web.servlet.FrameworkServlet Initializing Servlet 'dispatcherServlet' initServletBean 532 INFO 
+2024-07-19 15:47:17,875 org.springframework.web.servlet.FrameworkServlet Completed initialization in 0 ms initServletBean 554 INFO 
+2024-07-19 15:47:17,904 com.adi.demo.log4j.controller.HomeController from info method welcome 16 INFO 
+2024-07-19 15:47:17,905 com.adi.demo.log4j.controller.HomeController from error method welcome 17 ERROR 
+2024-07-19 15:47:17,905 com.adi.demo.log4j.controller.HomeController from warn method welcome 20 WARN 
+2024-07-19 15:51:13,583 org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications) onApplicationEvent 211 INFO 
+2024-07-19 15:51:13,704 org.springframework.boot.StartupInfoLogger Starting Application using Java 17.0.7 with PID 25456 (D:\ADI\STS\Practice\10-log4j-2\target\classes started by Adinath75 in D:\ADI\STS\Practice\10-log4j-2) logStarting 50 INFO 
+2024-07-19 15:51:13,704 org.springframework.boot.SpringApplication No active profile set, falling back to 1 default profile: "default" logStartupProfileInfo 654 INFO 
+2024-07-19 15:51:13,880 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port 8080 (http) initialize 111 INFO 
+2024-07-19 15:51:13,881 org.apache.juli.logging.DirectJDKLog Starting service [Tomcat] log 173 INFO 
+2024-07-19 15:51:13,881 org.apache.juli.logging.DirectJDKLog Starting Servlet engine: [Apache Tomcat/10.1.25] log 173 INFO 
+2024-07-19 15:51:13,892 org.apache.juli.logging.DirectJDKLog Initializing Spring embedded WebApplicationContext log 173 INFO 
+2024-07-19 15:51:13,892 org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 185 ms prepareWebApplicationContext 296 INFO 
+2024-07-19 15:51:13,943 org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729 startServer 59 INFO 
+2024-07-19 15:51:13,951 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port 8080 (http) with context path '/' start 243 INFO 
+2024-07-19 15:51:13,960 org.springframework.boot.StartupInfoLogger Started Application in 0.272 seconds (process running for 280.285) logStarted 56 INFO 
+2024-07-19 15:51:13,961 org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener Condition evaluation unchanged onApplicationEvent 63 INFO 
+2024-07-19 15:52:14,133 org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications) onApplicationEvent 211 INFO 
+2024-07-19 15:52:14,238 org.springframework.boot.StartupInfoLogger Starting Application using Java 17.0.7 with PID 25456 (D:\ADI\STS\Practice\10-log4j-2\target\classes started by Adinath75 in D:\ADI\STS\Practice\10-log4j-2) logStarting 50 INFO 
+2024-07-19 15:52:14,239 org.springframework.boot.SpringApplication No active profile set, falling back to 1 default profile: "default" logStartupProfileInfo 654 INFO 
+2024-07-19 15:52:14,354 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port 8080 (http) initialize 111 INFO 
+2024-07-19 15:52:14,355 org.apache.juli.logging.DirectJDKLog Starting service [Tomcat] log 173 INFO 
+2024-07-19 15:52:14,355 org.apache.juli.logging.DirectJDKLog Starting Servlet engine: [Apache Tomcat/10.1.25] log 173 INFO 
+2024-07-19 15:52:14,365 org.apache.juli.logging.DirectJDKLog Initializing Spring embedded WebApplicationContext log 173 INFO 
+2024-07-19 15:52:14,366 org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 125 ms prepareWebApplicationContext 296 INFO 
+2024-07-19 15:52:14,400 org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729 startServer 59 INFO 
+2024-07-19 15:52:14,407 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port 8080 (http) with context path '/' start 243 INFO 
+2024-07-19 15:52:14,413 org.springframework.boot.StartupInfoLogger Started Application in 0.188 seconds (process running for 340.738) logStarted 56 INFO 
+2024-07-19 15:52:14,414 org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener Condition evaluation unchanged onApplicationEvent 63 INFO 
+2024-07-19 15:52:27,988 org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification) onApplicationEvent 211 INFO 
+2024-07-19 15:52:28,103 org.springframework.boot.StartupInfoLogger Starting Application using Java 17.0.7 with PID 25456 (D:\ADI\STS\Practice\10-log4j-2\target\classes started by Adinath75 in D:\ADI\STS\Practice\10-log4j-2) logStarting 50 INFO 
+2024-07-19 15:52:28,103 org.springframework.boot.SpringApplication No active profile set, falling back to 1 default profile: "default" logStartupProfileInfo 654 INFO 
+2024-07-19 15:52:28,214 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port 8080 (http) initialize 111 INFO 
+2024-07-19 15:52:28,215 org.apache.juli.logging.DirectJDKLog Starting service [Tomcat] log 173 INFO 
+2024-07-19 15:52:28,216 org.apache.juli.logging.DirectJDKLog Starting Servlet engine: [Apache Tomcat/10.1.25] log 173 INFO 
+2024-07-19 15:52:28,227 org.apache.juli.logging.DirectJDKLog Initializing Spring embedded WebApplicationContext log 173 INFO 
+2024-07-19 15:52:28,227 org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 123 ms prepareWebApplicationContext 296 INFO 
+2024-07-19 15:52:28,263 org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729 startServer 59 INFO 
+2024-07-19 15:52:28,275 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port 8080 (http) with context path '/' start 243 INFO 
+2024-07-19 15:52:28,280 org.springframework.boot.StartupInfoLogger Started Application in 0.193 seconds (process running for 354.605) logStarted 56 INFO 
+2024-07-19 15:52:28,283 org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener Condition evaluation unchanged onApplicationEvent 63 INFO 
+2024-07-19 15:53:10,154 org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification) onApplicationEvent 211 INFO 
+2024-07-19 15:53:10,270 org.springframework.boot.StartupInfoLogger Starting Application using Java 17.0.7 with PID 25456 (D:\ADI\STS\Practice\10-log4j-2\target\classes started by Adinath75 in D:\ADI\STS\Practice\10-log4j-2) logStarting 50 INFO 
+2024-07-19 15:53:10,271 org.springframework.boot.SpringApplication No active profile set, falling back to 1 default profile: "default" logStartupProfileInfo 654 INFO 
+2024-07-19 15:53:10,378 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port 8080 (http) initialize 111 INFO 
+2024-07-19 15:53:10,378 org.apache.juli.logging.DirectJDKLog Starting service [Tomcat] log 173 INFO 
+2024-07-19 15:53:10,378 org.apache.juli.logging.DirectJDKLog Starting Servlet engine: [Apache Tomcat/10.1.25] log 173 INFO 
+2024-07-19 15:53:10,389 org.apache.juli.logging.DirectJDKLog Initializing Spring embedded WebApplicationContext log 173 INFO 
+2024-07-19 15:53:10,389 org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 116 ms prepareWebApplicationContext 296 INFO 
+2024-07-19 15:53:10,421 org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729 startServer 59 INFO 
+2024-07-19 15:53:10,432 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port 8080 (http) with context path '/' start 243 INFO 
+2024-07-19 15:53:10,437 org.springframework.boot.StartupInfoLogger Started Application in 0.181 seconds (process running for 396.762) logStarted 56 INFO 
+2024-07-19 15:53:10,438 org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener Condition evaluation unchanged onApplicationEvent 63 INFO 
+2024-07-19 15:53:18,951 org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification) onApplicationEvent 211 INFO 
+2024-07-19 15:53:19,074 org.springframework.boot.StartupInfoLogger Starting Application using Java 17.0.7 with PID 25456 (D:\ADI\STS\Practice\10-log4j-2\target\classes started by Adinath75 in D:\ADI\STS\Practice\10-log4j-2) logStarting 50 INFO 
+2024-07-19 15:53:19,074 org.springframework.boot.SpringApplication No active profile set, falling back to 1 default profile: "default" logStartupProfileInfo 654 INFO 
+2024-07-19 15:53:19,221 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port 8080 (http) initialize 111 INFO 
+2024-07-19 15:53:19,222 org.apache.juli.logging.DirectJDKLog Starting service [Tomcat] log 173 INFO 
+2024-07-19 15:53:19,222 org.apache.juli.logging.DirectJDKLog Starting Servlet engine: [Apache Tomcat/10.1.25] log 173 INFO 
+2024-07-19 15:53:19,240 org.apache.juli.logging.DirectJDKLog Initializing Spring embedded WebApplicationContext log 173 INFO 
+2024-07-19 15:53:19,240 org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 165 ms prepareWebApplicationContext 296 INFO 
+2024-07-19 15:53:19,279 org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729 startServer 59 INFO 
+2024-07-19 15:53:19,286 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port 8080 (http) with context path '/' start 243 INFO 
+2024-07-19 15:53:19,290 org.springframework.boot.StartupInfoLogger Started Application in 0.239 seconds (process running for 405.615) logStarted 56 INFO 
+2024-07-19 15:53:19,291 org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener Condition evaluation unchanged onApplicationEvent 63 INFO 
+2024-07-19 15:53:24,765 org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification) onApplicationEvent 211 INFO 
+2024-07-19 15:53:24,893 org.springframework.boot.StartupInfoLogger Starting Application using Java 17.0.7 with PID 25456 (D:\ADI\STS\Practice\10-log4j-2\target\classes started by Adinath75 in D:\ADI\STS\Practice\10-log4j-2) logStarting 50 INFO 
+2024-07-19 15:53:24,893 org.springframework.boot.SpringApplication No active profile set, falling back to 1 default profile: "default" logStartupProfileInfo 654 INFO 
+2024-07-19 15:53:25,010 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port 8080 (http) initialize 111 INFO 
+2024-07-19 15:53:25,011 org.apache.juli.logging.DirectJDKLog Starting service [Tomcat] log 173 INFO 
+2024-07-19 15:53:25,011 org.apache.juli.logging.DirectJDKLog Starting Servlet engine: [Apache Tomcat/10.1.25] log 173 INFO 
+2024-07-19 15:53:25,023 org.apache.juli.logging.DirectJDKLog Initializing Spring embedded WebApplicationContext log 173 INFO 
+2024-07-19 15:53:25,023 org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 128 ms prepareWebApplicationContext 296 INFO 
+2024-07-19 15:53:25,076 org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729 startServer 59 INFO 
+2024-07-19 15:53:25,086 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port 8080 (http) with context path '/' start 243 INFO 
+2024-07-19 15:53:25,091 org.springframework.boot.StartupInfoLogger Started Application in 0.214 seconds (process running for 411.416) logStarted 56 INFO 
+2024-07-19 15:53:25,092 org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener Condition evaluation unchanged onApplicationEvent 63 INFO 
+2024-07-19 15:53:43,716 org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification) onApplicationEvent 211 INFO 
+2024-07-19 15:53:43,831 org.springframework.boot.StartupInfoLogger Starting Application using Java 17.0.7 with PID 25456 (D:\ADI\STS\Practice\10-log4j-2\target\classes started by Adinath75 in D:\ADI\STS\Practice\10-log4j-2) logStarting 50 INFO 
+2024-07-19 15:53:43,831 org.springframework.boot.SpringApplication No active profile set, falling back to 1 default profile: "default" logStartupProfileInfo 654 INFO 
+2024-07-19 15:53:43,937 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port 8080 (http) initialize 111 INFO 
+2024-07-19 15:53:43,938 org.apache.juli.logging.DirectJDKLog Starting service [Tomcat] log 173 INFO 
+2024-07-19 15:53:43,938 org.apache.juli.logging.DirectJDKLog Starting Servlet engine: [Apache Tomcat/10.1.25] log 173 INFO 
+2024-07-19 15:53:43,946 org.apache.juli.logging.DirectJDKLog Initializing Spring embedded WebApplicationContext log 173 INFO 
+2024-07-19 15:53:43,946 org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 114 ms prepareWebApplicationContext 296 INFO 
+2024-07-19 15:53:43,978 org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729 startServer 59 INFO 
+2024-07-19 15:53:43,984 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port 8080 (http) with context path '/' start 243 INFO 
+2024-07-19 15:53:43,988 org.springframework.boot.StartupInfoLogger Started Application in 0.172 seconds (process running for 430.313) logStarted 56 INFO 
+2024-07-19 15:53:43,989 org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener Condition evaluation unchanged onApplicationEvent 63 INFO 
+2024-07-19 15:53:57,552 org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification) onApplicationEvent 211 INFO 
+2024-07-19 15:53:57,677 org.springframework.boot.StartupInfoLogger Starting Application using Java 17.0.7 with PID 25456 (D:\ADI\STS\Practice\10-log4j-2\target\classes started by Adinath75 in D:\ADI\STS\Practice\10-log4j-2) logStarting 50 INFO 
+2024-07-19 15:53:57,678 org.springframework.boot.SpringApplication No active profile set, falling back to 1 default profile: "default" logStartupProfileInfo 654 INFO 
+2024-07-19 15:53:57,806 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port 8080 (http) initialize 111 INFO 
+2024-07-19 15:53:57,807 org.apache.juli.logging.DirectJDKLog Starting service [Tomcat] log 173 INFO 
+2024-07-19 15:53:57,807 org.apache.juli.logging.DirectJDKLog Starting Servlet engine: [Apache Tomcat/10.1.25] log 173 INFO 
+2024-07-19 15:53:57,820 org.apache.juli.logging.DirectJDKLog Initializing Spring embedded WebApplicationContext log 173 INFO 
+2024-07-19 15:53:57,820 org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 139 ms prepareWebApplicationContext 296 INFO 
+2024-07-19 15:53:57,854 org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729 startServer 59 INFO 
+2024-07-19 15:53:57,861 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port 8080 (http) with context path '/' start 243 INFO 
+2024-07-19 15:53:57,865 org.springframework.boot.StartupInfoLogger Started Application in 0.207 seconds (process running for 444.19) logStarted 56 INFO 
+2024-07-19 15:53:57,867 org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener Condition evaluation unchanged onApplicationEvent 63 INFO 
+2024-07-19 15:55:13,210 org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification) onApplicationEvent 211 INFO 
+2024-07-19 15:55:13,329 org.springframework.boot.StartupInfoLogger Starting Application using Java 17.0.7 with PID 25456 (D:\ADI\STS\Practice\10-log4j-2\target\classes started by Adinath75 in D:\ADI\STS\Practice\10-log4j-2) logStarting 50 INFO 
+2024-07-19 15:55:13,330 org.springframework.boot.SpringApplication No active profile set, falling back to 1 default profile: "default" logStartupProfileInfo 654 INFO 
+2024-07-19 15:55:13,444 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port 8080 (http) initialize 111 INFO 
+2024-07-19 15:55:13,445 org.apache.juli.logging.DirectJDKLog Starting service [Tomcat] log 173 INFO 
+2024-07-19 15:55:13,445 org.apache.juli.logging.DirectJDKLog Starting Servlet engine: [Apache Tomcat/10.1.25] log 173 INFO 
+2024-07-19 15:55:13,454 org.apache.juli.logging.DirectJDKLog Initializing Spring embedded WebApplicationContext log 173 INFO 
+2024-07-19 15:55:13,454 org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 122 ms prepareWebApplicationContext 296 INFO 
+2024-07-19 15:55:13,494 org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729 startServer 59 INFO 
+2024-07-19 15:55:13,502 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port 8080 (http) with context path '/' start 243 INFO 
+2024-07-19 15:55:13,507 org.springframework.boot.StartupInfoLogger Started Application in 0.194 seconds (process running for 519.832) logStarted 56 INFO 
+2024-07-19 15:55:13,508 org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener Condition evaluation unchanged onApplicationEvent 63 INFO 
+2024-07-19 16:02:11,288 org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification) onApplicationEvent 211 INFO 
+2024-07-19 16:02:11,402 org.springframework.boot.StartupInfoLogger Starting Application using Java 17.0.7 with PID 25456 (D:\ADI\STS\Practice\10-log4j-2\target\classes started by Adinath75 in D:\ADI\STS\Practice\10-log4j-2) logStarting 50 INFO 
+2024-07-19 16:02:11,402 org.springframework.boot.SpringApplication No active profile set, falling back to 1 default profile: "default" logStartupProfileInfo 654 INFO 
+2024-07-19 16:02:11,508 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port 8080 (http) initialize 111 INFO 
+2024-07-19 16:02:11,509 org.apache.juli.logging.DirectJDKLog Starting service [Tomcat] log 173 INFO 
+2024-07-19 16:02:11,509 org.apache.juli.logging.DirectJDKLog Starting Servlet engine: [Apache Tomcat/10.1.25] log 173 INFO 
+2024-07-19 16:02:11,519 org.apache.juli.logging.DirectJDKLog Initializing Spring embedded WebApplicationContext log 173 INFO 
+2024-07-19 16:02:11,519 org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 115 ms prepareWebApplicationContext 296 INFO 
+2024-07-19 16:02:11,562 org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer LiveReload server is running on port 35729 startServer 59 INFO 
+2024-07-19 16:02:11,570 org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port 8080 (http) with context path '/' start 243 INFO 
+2024-07-19 16:02:11,574 org.springframework.boot.StartupInfoLogger Started Application in 0.188 seconds (process running for 937.899) logStarted 56 INFO 
+2024-07-19 16:02:11,574 org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener Condition evaluation unchanged onApplicationEvent 63 INFO 
+2024-07-19 16:02:23,847 org.apache.juli.logging.DirectJDKLog Initializing Spring DispatcherServlet 'dispatcherServlet' log 173 INFO 
+2024-07-19 16:02:23,848 org.springframework.web.servlet.FrameworkServlet Initializing Servlet 'dispatcherServlet' initServletBean 532 INFO 
+2024-07-19 16:02:23,849 org.springframework.web.servlet.FrameworkServlet Completed initialization in 1 ms initServletBean 554 INFO 
+2024-07-19 16:02:23,864 com.adi.demo.log4j.controller.HomeController this is first method     null welcome 16 INFO 
+2024-07-19 16:02:23,864 com.adi.demo.log4j.controller.HomeController from error method welcome 17 ERROR 
+2024-07-19 16:02:23,865 com.adi.demo.log4j.controller.HomeController from warn method welcome 20 WARN 
+2024-07-19 18:25:35,930 org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin Application shutdown requested. shutdown 159 INFO 
